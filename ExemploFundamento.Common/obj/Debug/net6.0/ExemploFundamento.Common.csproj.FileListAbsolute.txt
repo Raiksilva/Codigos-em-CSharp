@@ -1,0 +1,12 @@
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\bin\Debug\net6.0\ExemploFundamento.Common.deps.json
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\bin\Debug\net6.0\ExemploFundamento.Common.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\bin\Debug\net6.0\ExemploFundamento.Common.pdb
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.csproj.AssemblyReference.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.AssemblyInfoInputs.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.AssemblyInfo.cs
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.csproj.CoreCompileInputs.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\refint\ExemploFundamento.Common.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ExemploFundamento.Common.pdb
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\ExemploFundamento.Common\obj\Debug\net6.0\ref\ExemploFundamento.Common.dll

@@ -1,0 +1,15 @@
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\bin\Debug\net6.0\POO_no_Dotnet.exe
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\bin\Debug\net6.0\POO_no_Dotnet.deps.json
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\bin\Debug\net6.0\POO_no_Dotnet.runtimeconfig.json
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\bin\Debug\net6.0\POO_no_Dotnet.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\bin\Debug\net6.0\POO_no_Dotnet.pdb
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.csproj.AssemblyReference.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.AssemblyInfoInputs.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.AssemblyInfo.cs
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\refint\POO_no_Dotnet.dll
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.pdb
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\POO_no_Dotnet.genruntimeconfig.cache
+C:\Users\raiks\OneDrive\Área de Trabalho\ExemploFundamento\POO_no_Dotnet\obj\Debug\net6.0\ref\POO_no_Dotnet.dll
